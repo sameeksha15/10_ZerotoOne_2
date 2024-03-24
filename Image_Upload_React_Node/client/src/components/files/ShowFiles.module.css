@@ -1,0 +1,15 @@
+.insights_container {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    background-color: lightcoral;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 16px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 4px 2px lightgrey;
+}
+/* 
+.insights_container p {
+    color: white;
+} */

@@ -1,0 +1,29 @@
+.single_upload_in_progress {
+    /* background-color: whitesmoke; */
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin-bottom: 40px;
+    padding: 15px 20px;
+    border-radius: 15px;
+}
+
+.single_upload {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left_area {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.music_icon .icon {
+    font-size: 50px;
+}
+
+.fileData .fileName {
+    display: flex;
+    gap: 10px;
+}
